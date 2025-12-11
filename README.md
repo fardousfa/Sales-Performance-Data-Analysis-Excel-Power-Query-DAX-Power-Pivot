@@ -1,5 +1,5 @@
 # Data_Analysis_Excel_Power_Query_DAX
-This project demonstrates my end-to-end BI skills using Power Query, Power Pivot (DAX), and Excel Visualization. I built a dynamic and interactive sales performance dashboard for a multi-store coffee chain using raw data extracted from an ERP system.
+This project demonstrates my end-to-end BI skills using Power Query, Power Pivot (DAX), and Excel Visualization. I built a dynamic and interactive sales performance dashboard for a multi-store coffee chain.
 
 ## Dataset Used
 <a href="https://github.com/fardousfa/Data_Analysis_Excel_Power_Query_DAX/blob/main/London_Coffee_ERP_Export_Jan-Jun_2025.xlsx">Coffee Shop Dataset</a>
@@ -28,15 +28,13 @@ This project demonstrates my end-to-end BI skills using Power Query, Power Pivot
 ## Process Overview
 **1. Data Source & ETL**
 
-    Source: ERP system export.
+    Source: Kaggle
 
-    Tool: Power Query, Excel
+    Tool: Power Query, Excel, DAX, Excel Data Modelling
 
     Steps:
 
         Cleaned and normalized Transactions, Product, Store, and Calendar tables.
-
-        Derived Time of Day segmentation using conditional logic and DAX Measures.
 
         Generated Quarter, Month Name, and Month Index columns from transaction dates.
 
