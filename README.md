@@ -1,8 +1,6 @@
 # Data_Analysis_Excel_Power_Query_DAX
 This project demonstrates my end-to-end BI skills using Power Query, Power Pivot (DAX), and Excel Visualization. I built a dynamic and interactive sales performance dashboard for a multi-store coffee chain.
 
-## Dataset Used
-<a href="https://github.com/fardousfa/Data_Analysis_Excel_Power_Query_DAX/blob/main/London_Coffee_ERP_Export_Jan-Jun_2025.xlsx">Coffee Shop Dataset</a>
 
 <br>
 
